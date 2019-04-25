@@ -36,3 +36,4 @@ void isPrimer(int n)
 		}
 	}
 }
+ 
