@@ -14,7 +14,7 @@ int main(void)
 void isPrimer(int n)
 {
 	int line = 0;
-	int a[2000];
+	int a[200000];
 	for (int i = 0; i < n+1; i++) 
 	{
 		a[i] = 1;	
