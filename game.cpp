@@ -181,8 +181,3 @@ void Check_Head(int x, int y)  //检查蛇头移动后的位置情况
   else
    over = 1;
 }
---------------------- 
-作者：Pluser 
-来源：CSDN 
-原文：https://blog.csdn.net/hai8902882/article/details/6976490 
-版权声明：本文为博主原创文章，转载请附上博文链接！
